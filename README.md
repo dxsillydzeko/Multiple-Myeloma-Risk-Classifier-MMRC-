@@ -1,0 +1,2 @@
+# ML-algorithm-for-multiple-myeloma-risk-classification-
+This algorithm was created by me for risk classification of multiple myeloma patients using differential gene expression (RNA-seq) and clinical information of the patients. This model classifies myeloma in two categories: low-risk and ultra-high-risk. Any suggestions and improvements are very very welcome and if this is useful to you, very cool.  
