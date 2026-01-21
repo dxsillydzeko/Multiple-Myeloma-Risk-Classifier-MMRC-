@@ -10,7 +10,7 @@ This repository contains a Python script for classifying multiple myeloma patien
 pip install -r requirements.txt
 
 ## Usage
-python mmrf_ml_classifier.py --expression_file path/to/exp.tpm.tsv --survival_file path/to/survival_months.csv --output_dir output/
+python mmrc.py --expression_file path/to/exp.tpm.tsv --survival_file path/to/survival_months.csv --output_dir output/
 
 ## Output
 - Intermediate CSV files and plots in the specified output directory.
